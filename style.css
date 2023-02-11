@@ -603,7 +603,7 @@ main .recent-orders a{
         height: 100vh;
         padding-right: var(--card-padding);
         display: none;
-        animation: showMenu 400ms ease forwards;
+        animation: showMenu 300ms ease forwards;
     }
     
     @keyframes showMenu{
